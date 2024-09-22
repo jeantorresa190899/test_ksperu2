@@ -1,0 +1,12 @@
+.text-styled{
+    color: red;
+}
+
+.ancho_formulario{
+    width: 300px !important;
+}
+
+.tamanio_imagen_foto{
+    width: 100px;
+    height: 100px;
+}
